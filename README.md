@@ -1,5 +1,5 @@
 ## Сourses_website_SQL_AB
-⚒️ `Стек: python, pandas, pandahouse, numpy, seaborn, matplotlib, scipy, bootstrap, requests, urlencode, SQL, ClickHouse, Jupyter Notebook`
+⚒️ `Стек: python, pandas, pandahouse, numpy, seaborn, matplotlib, requests, urlencode, SQL, ClickHouse, Jupyter Notebook`
 
 ### Анализ сайта продажи курсов
 
